@@ -4,7 +4,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Copier le lien Github et aller sur VSC, dans votre terminal du projet, copiez :
 > ```bash
-> git clone https://github.com/RekosHD/infeauregister.git temp-project
+> git clone https://github.com/RekosHD/registerreact-rative.git temp-project
 > ```
  
 Un dossier "temp-project" va s'insérer dans votre projet.
